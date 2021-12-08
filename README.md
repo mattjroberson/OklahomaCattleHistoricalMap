@@ -6,7 +6,7 @@ This project is an interactive map of historical cattle statistics in Oklahoma. 
 
 _Disclaimer: This project is an artistic depiction of the demographics in question. It should not be used as a rigorous data source._ 
 
-# <ins>Features</ins>
+## <ins>Features</ins>
 * Each county is colored with a linear gradient from blue (dairy) to red (beef). The brightest blue is the year in the county with the most dairy cattle. The brightest red is the year with the most beef cattle.
 * The information panel on the left shows the graph of the state cattle data. Both the normalized percentage and raw cattle counts are available.
 * Individual counties can be selected to show the data graphs for that specific county
@@ -14,10 +14,11 @@ _Disclaimer: This project is an artistic depiction of the demographics in questi
 * The document icons on the map represent anecdotes about cattle farming in Oklahoma. Clicking on the doc brings up quotes from the farmers in the key window. 
 * Clicking on the source link at the bottom of the anecdote window links to the source web article
 
-# Snapshot
+# Snapshots
 ![snapshot 1](./readme_assets/snapshot1.png)
+<br><br>
 ![snapshot 2](./readme_assets/snapshot2.png)
-<br>
+<br><br>
 Video Demonstration: https://youtu.be/3Als2_piNwk
 
 # Build Instructions
